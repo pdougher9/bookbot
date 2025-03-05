@@ -1,2 +1,3 @@
 # bookbot
-A small Python learning project from boot.dev where a bot counts letters, words, etc. from books.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
